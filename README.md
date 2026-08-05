@@ -19,4 +19,3 @@
   <img align="center" alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Daniel-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg"
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielsenatto)](https://github.com/anuraghazra/github-readme-stats)
