@@ -1,6 +1,6 @@
 ## Olá! Sou o Daniel de Andrade Senador 👋
 
-- 🔭 Designer Gráfico na Agência Baruk.
+- 🔭 Designer Gráfico | TI
 - 🌱 Cursando Analise & Desenvolvimento de Sistemas.
 - 📩 Contate-me: contatodanielescritorio@hotmail.com
 - ⚡ Movido por tecnologia, arte e criatividade.
